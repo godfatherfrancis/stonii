@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Iceland');
 
 body {
-	background: url(images/sky.jpg);
+	background: url(../../images/sky.jpg);
 	background-color: black;
 	background-size: auto 100vh;
 	background-repeat: repeat-x;
