@@ -1,2 +1,2 @@
-# stonii
-Stonii Romo - Tha Melody god website
+# iamlordtalent
+Lord Talent - website
