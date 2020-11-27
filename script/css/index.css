@@ -18,6 +18,10 @@
     margin-right: auto;
 }
 
+#main-page {
+    position: fixed;
+}
+
 /*#content {
     width: 700px;
     margin: 0 auto;
