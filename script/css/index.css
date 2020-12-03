@@ -74,14 +74,14 @@ ul {
     background-size: 150px 50px;
 }
 
-.retailer-logo {
+/*.retailer-logo {
     float: left;
     width: 190px;
     height: 83px;
     background-repeat: no-repeat;
     background-position: 50% 50%;
     margin: 0 auto;
-}
+}*/
 
 .retailer-logo,
 .retailer-verb {
@@ -89,8 +89,7 @@ ul {
 }
 
 .retailer-verb {
-    float: right;
-    width: 128px;
+    width: 320px;
     height: 100%;
     position: relative;
 }
